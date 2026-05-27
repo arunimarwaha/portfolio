@@ -1,142 +1,60 @@
-# =========================
-# Arunima Marwaha Portfolio
-# =========================
 
-logo: /assets/img/profile.jpeg
-description: Economic researcher & Data Analyst 
-# -------------------------
-# Contact
-# -------------------------
-email: arumarwaha@gmail.com
-linkedin: https://www.linkedin.com/in/arunimarwaha/
-location: Berlin, Germany
+#### Economic Researcher & Data Analyst  
+Berlin, Germany  
+[LinkedIn](https://www.linkedin.com/in/arunimarwaha/) | [arumarwaha@gmail.com](arumarwaha@gmail.com)
 
-# -------------------------
-# Technical Skills
-# -------------------------
-technical_skills:
-  - Python
-  - R
-  - SQL
-  - STATA
-  - Power BI
-  - Tableau
-  - Excel
-  - PowerPoint
+## Technical Skills
+**Programming & Analytics:** Python, R, SQL, STATA  
+**Data & BI:** Excel, Power BI, Tableau, data cleaning, validation, dashboards  
+**Research:** Policy research, KPI analysis, stakeholder reporting, sustainability research  
 
-# -------------------------
-# Education
-# -------------------------
-education:
-  - degree: M.Sc. Economics
-    institution: Humboldt-Universität zu Berlin
-    duration: Oct 2024 - Present
-    details:
-      - Relevant coursework: Public Economics, Applied Econometrics in STATA, Statistical & Machine Learning, Time Series Analysis
+## Education
+- **M.Sc. Economics**, Humboldt-Universität zu Berlin (_2024 – Present_)  
+  Relevant coursework: Public Economics, Applied Econometrics in STATA, Statistical and Machine Learning, Time Series Analysis
 
-  - degree: B.A. (Hons.) Economics
-    institution: University of Delhi
-    duration: Aug 2020 - May 2023
-    details:
-      - GPA: 8.5/10
+- **B.A. (Hons.) Economics**, University of Delhi (_2020 – 2023_)  
+  GPA: 8.5/10
 
-# -------------------------
-# Work Experience
-# -------------------------
-work_experience:
+## Work Experience
 
-  - title: Research Assistant
-    company: ROCKWOOL Foundation Berlin
-    duration: Nov 2024 - Present
-    responsibilities:
-      - Built reproducible Python and R workflows for research dashboards and analytical reporting
-      - Validated and analysed large-scale datasets using consistency checks and interpolation methods
-      - Prepared dashboards, charts, tables, and structured reports for interdisciplinary stakeholders
-      - Documented workflows and reporting structures to support recurring analytical outputs
+**Research Assistant @ ROCKWOOL Foundation Berlin (_Nov 2024 – Present_)**
+- Built reproducible Python and R workflows for research [dashboards](https://www.rfberlin.com/cream-rfberlin/) and analytical reporting
+- Validated and analysed large-scale datasets using consistency checks and interpolation methods
+- Prepared dashboards, charts, tables, and structured reports for interdisciplinary stakeholders
 
-  - title: Research Assistant
-    company: Jacques Delors Centre, Hertie School
-    duration: Jun 2025 - Sep 2025
-    responsibilities:
-      - Built and documented a structured dataset on EU administrative, fiscal, and material resources using R
-      - Supported comparative policy analysis and reporting on European public institutions
+**Research Assistant @ Jacques Delors Centre, Hertie School (_Jun 2025 – Sep 2025_)**
+- Built and documented a structured dataset on EU administrative, fiscal, and material resources using R
+- Supported comparative policy analysis and reporting on European public institutions
 
-  - title: Program Associate – Outcome Measurement
-    company: Centre for Effective Governance of Indian States (CEGIS)
-    duration: Jul 2023 - Aug 2024
-    responsibilities:
-      - Analysed 39 KPIs across 500 administrative blocks for operational performance evaluation
-      - Consolidated and analysed administrative and survey data for 4,000+ beneficiaries
-      - Prepared analytical outputs and recommendations for public-sector stakeholders
-      - Supported process-improvement and digitalisation initiatives within government departments
+**Program Associate – Outcome Measurement @ CEGIS (_Jul 2023 – Aug 2024_)**
+- Analysed 39 KPIs across 500 administrative blocks for operational performance evaluation
+- Consolidated and analysed administrative and survey data for 4,000+ beneficiaries
+- Supported process-improvement and digitalisation initiatives within government departments
 
-  - title: Intern
-    company: Ministry of Commerce & Industry, Government of India
-    duration: Jun 2022 - Mar 2023
-    responsibilities:
-      - Conducted policy and market research on infrastructure, manufacturing, and global value chains
-      - Drafted briefing notes and analytical summaries during India’s G20 presidency
+**Intern @ Ministry of Commerce & Industry, Government of India (_Jun 2022 – Mar 2023_)**
+- Conducted policy and market research on infrastructure, manufacturing, and global value chains
+- Drafted briefing notes and analytical summaries during India’s G20 presidency
 
-# -------------------------
-# Projects
-# -------------------------
-projects:
+## Projects
 
-  - title: Climate Change & Tourism in Uttarakhand
-    description: >
-      Conducted sustainability-focused research on climate-related risks for tourism-dependent communities
-      using stakeholder interviews, secondary research, and case-study analysis.
-    technologies:
-      - Research
-      - Sustainability
-      - Data Analysis
-      - Policy Analysis
+### Climate Change & Tourism in Uttarakhand
+Conducted sustainability-focused research on climate-related risks for tourism-dependent communities using stakeholder interviews, secondary research, and case-study analysis.
 
-    image: /assets/img/uttarakhand_project.jpeg
-    link: https://example-link.com
+### Women’s Reservation in Public Sector Employment
+Built and analysed a survey-based dataset to evaluate policy impacts using quantitative methods, data cleaning, and statistical analysis.
 
-  - title: Women’s Reservation in Public Sector Employment
-    description: >
-      Built and analysed a survey-based dataset to evaluate policy impacts using quantitative methods,
-      data cleaning, and statistical analysis.
-    technologies:
-      - STATA
-      - Econometrics
-      - Public Policy
-      - Quantitative Analysis
+### Corruption and Suicide Rates
+Built a panel data econometric model (2012–2019) to analyse the relationship between governance indicators and suicide rates across BRICS countries.
 
-    image: /assets/img/public_policy_project.jpeg
-    link: https://example-link.com
+## Publications
+- Jacob, M., Chopra , A. ., Goel , A. ., Marwaha , A., & Sharma, B. (2024). Examining the Impact of Climate Change on Tourism Sector of Uttarakhand : An Exploratory Study. Atna Journal of Tourism Studies, 19(1), 35-68. https://doi.org/10.12727/ajts.31.2
 
-# -------------------------
-# Interests
-# -------------------------
-interests:
-  - Public-sector digitalisation
-  - Sustainability
-  - Energy transition
-  - Business intelligence
-  - Economic policy
-  - Data analytics
+## Certifications & Awards
+- World Bank – Reproducible Research Fundamentals
+- MIT Community Award
+- Top 10 in India, GMCC Melbourne Microfinance Initiative
 
-# -------------------------
-# Languages
-# -------------------------
-languages:
-  - English (C1)
-  - German (B1 – actively improving)
-  - Hindi (Native)
-
-# -------------------------
-# Certifications
-# -------------------------
-certifications:
-  - World Bank – Reproducible Research Fundamentals
-  - MIT Community Award
-
-# -------------------------
-# Publications
-# -------------------------
-publications:
-  - title: Climate Change & Tourism in Uttarakhand
-    year: 2023
+## Languages
+- English: C1  
+- German: B1, actively improving  
+- Hindi: Native
