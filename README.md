@@ -41,6 +41,8 @@ Berlin, Germany
 Conducted sustainability-focused research on climate-related risks for tourism-dependent communities using stakeholder interviews, secondary research, and case-study analysis.
 
 ### Women’s Reservation in Public Sector Employment
+[GitHub Repository](https://github.com/arunimarwaha/women-reservation-analysis)
+
 Built and analysed a survey-based dataset to evaluate policy impacts using quantitative methods, data cleaning, and statistical analysis.
 
 ### Corruption and Suicide Rates
