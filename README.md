@@ -69,7 +69,6 @@ Built a KPI-based performance monitoring framework, analysing 39 indicators acro
 
 - Applied synthetic control method with 29 donor states and placebo tests to estimate a counterfactual for Punjab and validate the policy impact.
 
-- 
 ## Publications
 - Jacob, M., Chopra , A. ., Goel , A. ., Marwaha , A., & Sharma, B. (2024). Examining the Impact of Climate Change on Tourism Sector of Uttarakhand : An Exploratory Study. Atna Journal of Tourism Studies, 19(1), 35-68. https://doi.org/10.12727/ajts.31.2
 
