@@ -5,8 +5,11 @@ Berlin, Germany
 
 ## Technical Skills
 **Programming & Data Tools:** Python, R, SQL, STATA, Excel, Git, LaTeX 
+
 **Python/R Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn, tidyverse, ggplot2, dplyr
-**BI & Visualisation:** Power BI, Tableau, dashboards, automated reporting, stakeholder-ready visualisations**Research:** Policy research, KPI analysis, stakeholder reporting, sustainability research  
+
+**BI & Visualisation:** Power BI, Tableau, dashboards, automated reporting, stakeholder-ready visualisations
+
 **Analytics & Modelling:** Regression analysis, panel data, causal inference, machine learning, classification models, feature engineering, exploratory data analysis
 
 
