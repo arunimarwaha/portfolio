@@ -30,7 +30,7 @@ Berlin, Germany
 - Digitised and standardised 20+ years of historical EU budget records, transforming inconsistent budget documents into a policy-level dataset to analyse long-run EU expenditure patterns, fiscal priorities, and institutional resource allocation.
 
 **Program Associate – Outcome Measurement @ CEGIS (_Jul 2023 – Aug 2024_)**
-Built a KPI-based performance monitoring framework, analysing 39 indicators across 500 administrative units to support ranking, benchmarking, and data-driven decision-making by central government stakeholders.
+- Built a KPI-based performance monitoring framework, analysing 39 indicators across 500 administrative units to support ranking, benchmarking, and data-driven decision-making by central government stakeholders.
 
 - Diagnosed administrative data-quality issues by comparing field-collected data from 4K+ respondents with existing government datasets, identifying gaps linked to reporting incentives and process bottlenecks to improve reliability of decision-support systems.
 
@@ -44,6 +44,7 @@ Built a KPI-based performance monitoring framework, analysing 39 indicators acro
 ## Education
 - **M.Sc. Economics**, Humboldt-Universität zu Berlin (_2024 – Present_)
   Current Grade: 1.3 (german grading system)
+  
   Relevant coursework: Competition Policy, Public Economics, Statistical and Machine Learning, Applied Econometrics in STATA
 
 - **B.A. (Hons.) Economics**, University of Delhi (_2020 – 2023_)  
@@ -58,7 +59,7 @@ Built a KPI-based performance monitoring framework, analysing 39 indicators acro
 
 - Evaluated models using precision, confusion matrices, and error rates, improving buyer-targeting precision from a 6\% baseline to 27% among predicted buyers.
 
-### Retail Sales Classification \& Housing Price Prediction with Tree-Based Models
+### Retail Sales Classification & Housing Price Prediction with Tree-Based Models
 [GitHub Repository](https://github.com/arunimarwaha/retail-and-housing-tree-models)
 
 - Developed classification tree models on a dataset of 400 retail stores to identify high-sales locations, applying cross-validation and pruning to evaluate model complexity and achieving 76% test accuracy.
