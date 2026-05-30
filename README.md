@@ -49,14 +49,14 @@ Built a KPI-based performance monitoring framework, analysing 39 indicators acro
 
 ## Projects
 ### Customer Purchase Prediction for Targeted Insurance Marketing
-[GitHub Repository](https://github.com/arunimarwaha/women-reservation-analysis)
+[GitHub Repository](https://github.com/arunimarwaha/caravan-insurance-purchase-prediction)
 
 - Built KNN classification models on 5K+ customer records to identify likely caravan-insurance buyers in an imbalanced dataset with a 6% purchase rate.
 
 - Evaluated models using precision, confusion matrices, and error rates, improving buyer-targeting precision from a 6\% baseline to 27% among predicted buyers.
 
 ### Retail Sales Classification \& Housing Price Prediction with Tree-Based Models
-[GitHub Repository](https://github.com/arunimarwaha/women-reservation-analysis)
+[GitHub Repository](https://github.com/arunimarwaha/retail-and-housing-tree-models)
 
 - Developed classification tree models on a dataset of 400 retail stores to identify high-sales locations, applying cross-validation and pruning to evaluate model complexity and achieving 76% test accuracy.
 
