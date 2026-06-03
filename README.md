@@ -17,9 +17,9 @@ Berlin, Germany
 **Research Assistant -- Data Analytics & Reporting @ ROCKWOOL Foundation Berlin (_Nov 2024 – Present_)**
 - Built automated R and Python pipelines using Eurostat and UNHCR APIs to collect, clean, interpolate, and update datasets and country factsheets for a public-facing [dashboard](https://www.rfberlin.com/cream-rfberlin/), reducing recurring effort by over 90%.
  
-- Processed 3M+ observations by cleaning, validating, weighting, and merging survey data with external datasets; built destination-attractiveness indices and regression models across 163 origin countries to measure global demand, demographic heterogeneity, and origin-country concentration.
+- Processed 3M+ observations by cleaning, validating, weighting, and merging Gallup survey data on migration intentions with other external datasets; built destination-attractiveness indices and regression models across 163 origin countries to measure global demand, demographic heterogeneity, and origin-country concentration.
 
-- Analysed multiple datasets for 20+ reports, translating trends, segmentation, and demographic patterns into insights used for media outreach, stakeholder reporting, and public communication across Europe.
+- Analysed multiple datasets for 20+ CReAM reports, translating migration trends, segmentation, and demographic patterns into insights used for media outreach, stakeholder reporting, and public communication across Europe.
 
 - Documented recurring data pipelines and quality-control workflows, improving process transparency, auditability, and handover across dashboard and analytical projects.
 
@@ -28,15 +28,18 @@ Berlin, Germany
 - Digitised and standardised 20+ years of historical EU budget records, transforming inconsistent budget documents into a policy-level dataset to analyse long-run EU expenditure patterns, fiscal priorities, and institutional resource allocation.
 
 **Program Associate – Outcome Measurement @ CEGIS (_Jul 2023 – Aug 2024_)**
-- Built a KPI-based performance monitoring framework, analysing 39 indicators across 500 administrative units to support ranking, benchmarking, and data-driven decision-making by central government stakeholders.
+- Built a KPI-based performance monitoring framework, analysing 39 indicators across 500 administrative units to support ranking, benchmarking, and data-driven decision-making by central government (NITI AAYOG) stakeholders.
 
-- Diagnosed administrative data-quality issues by comparing field-collected data from 4K+ respondents with existing government datasets, identifying gaps linked to reporting incentives and process bottlenecks to improve reliability of decision-support systems.
+- Diagnosed administrative data-quality issues by comparing field-collected data from 4K+ respondents with existing government datasets, identifying gaps linked to reporting incentives and process bottlenecks to improve reliability of decision-support systems across multiple state government departments.
 
-- Designed digital monitoring workflows for a state government service-delivery programme covering 60K+ centres, defining data flows from local-level entry to state-level dashboards to improve reporting accuracy and management visibility.
+- Designed digital monitoring workflows for a state government service-delivery programme covering 60K+ Anganwadi centres, defining data flows from local-level entry to state-level dashboards to improve reporting accuracy and management visibility.
 
 **Intern @ Ministry of Commerce & Industry, Government of India (_Jun 2022 – Mar 2023_)**
 - Analysed 24 years of trade, investment, and tariff data to assess drivers of domestic value addition and export competitiveness for internal reporting under the Office of the Economic Advisor.
 - Drafted strategic concept notes for G20 Investment Promotion Agency action groups across 5 themes to support international discussions on foreign investment coordination, supply-chain resilience, sustainability, digitalisation, and future-of-work priorities.
+
+- **Millenium Fellow @ United Nations Academic Impact (_Aug 2022 – Dec 2022_)**
+- Developed and delivered learning modules for 200+ underprivileged children, supporting progress toward SDG 4 and SDG 8. 
 
 ## Education
 - **M.Sc. Economics**, Humboldt-Universität zu Berlin (_2024 – Present_)
@@ -76,18 +79,24 @@ Berlin, Germany
 
 - Applied synthetic control method with 29 donor states and placebo tests to estimate a counterfactual for Punjab and validate the policy impact.
 
+### Gender and Financial Independence 
+[Link to report](https://drive.google.com/file/d/1wKR0spbYhITBpBsyw_aOz7CtokOAFkwe/view)
+- Conducted a field-based study examining the relationship between women's financial independence, agricultural participation, and decision-making power in rural Uttarakhand, with a focus on access to banking, microfinance, and local markets.
+ 
+- Combined primary field observations with secondary data from NFHS, Census, and labour market sources to evaluate barriers to women's economic empowerment, financial literacy, and participation in household and community decision-making.
+
 ### Impact of Corruption on Suicide Rates in BRICS Countries
  - Built a panel data model (2012–2019) to analyse the relationship between governance indicators and suicide rates across BRICS countries.
 
  - Performed data cleaning, regression analysis, and robustness checks using STATA.
-
+   
 ## Publications
-- Jacob, M., Chopra , A. ., Goel , A. ., Marwaha , A., & Sharma, B. (2024). Examining the Impact of Climate Change on Tourism Sector of Uttarakhand : An Exploratory Study. Atna Journal of Tourism Studies, 19(1), 35-68. https://doi.org/10.12727/ajts.31.2
+- Jacob, M., Chopra , A. ., Goel , A. ., Marwaha , A., & Sharma, B. (2024). Examining the Impact of Climate Change on Tourism Sector of Uttarakhand : An Exploratory Study. Atna Journal of Tourism Studies, 19(1), 35-68. [https://doi.org/10.12727/ajts.31.2](https://journals.christuniversity.in/index.php/atna/article/view/4511)
 
 ## Certifications & Awards
 - World Bank – Reproducible Research Fundamentals
-- MIT Community Award for Enactus Project
-- Top 10 in India, GMCC Melbourne Microfinance Initiative
+- MIT Community Award 2021 for Enactus Project
+- Top 10 in India, GMCC 2021 hosted by Melbourne Microfinance Initiative and University of Melbourne
 
 ## Languages
 - English: C1  
@@ -98,3 +107,4 @@ Berlin, Germany
 - Travelling
 - Painting
 - Reading books
+
