@@ -38,7 +38,7 @@ Berlin, Germany
 - Analysed 24 years of trade, investment, and tariff data to assess drivers of domestic value addition and export competitiveness for internal reporting under the Office of the Economic Advisor.
 - Drafted strategic concept notes for G20 Investment Promotion Agency action groups across 5 themes to support international discussions on foreign investment coordination, supply-chain resilience, sustainability, digitalisation, and future-of-work priorities.
 
-- **Millenium Fellow @ United Nations Academic Impact (_Aug 2022 – Dec 2022_)**
+**Millenium Fellow @ United Nations Academic Impact (_Aug 2022 – Dec 2022_)**
 - Developed and delivered learning modules for 200+ underprivileged children, supporting progress toward SDG 4 and SDG 8. 
 
 ## Education
