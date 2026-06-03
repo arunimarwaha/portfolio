@@ -41,6 +41,7 @@ Berlin, Germany
 ## Education
 - **M.Sc. Economics**, Humboldt-Universität zu Berlin (_2024 – Present_)
   Current Grade: 1.3 (german grading system)
+  
   Coursework: Advanced Microeconomics, Advanced Macroeconomics, Econometric Methods, Public Economics, Competition Policy, Statistical & Machine Learning, Applied Econometrics in STATA, Time Series Analysis, Generalised Regression, Empirical Development Economics, Applied Migration & Cultural Economics, History of Economic Thought in 20th Century
   
 - **B.A. (Hons.) Economics (Minor in Mathematics)**, University of Delhi (_2020 – 2023_)  
