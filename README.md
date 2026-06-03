@@ -91,7 +91,7 @@ Berlin, Germany
  - Performed data cleaning, regression analysis, and robustness checks using STATA.
    
 ## Publications
-- Jacob, M., Chopra , A. ., Goel , A. ., Marwaha , A., & Sharma, B. (2024). Examining the Impact of Climate Change on Tourism Sector of Uttarakhand : An Exploratory Study. Atna Journal of Tourism Studies, 19(1), 35-68. [https://doi.org/10.12727/ajts.31.2](https://journals.christuniversity.in/index.php/atna/article/view/4511)
+- Jacob, M., Chopra , A. ., Goel , A. ., Marwaha , A., & Sharma, B. (2024). Examining the Impact of Climate Change on Tourism Sector of Uttarakhand : An Exploratory Study. Atna Journal of Tourism Studies, 19(1), 35-68. [https://doi.org/10.12727/ajts.31.2](https://journals.christuniversity.in/index.php/atna/article/view/4576)
 
 ## Certifications & Awards
 - World Bank – Reproducible Research Fundamentals
