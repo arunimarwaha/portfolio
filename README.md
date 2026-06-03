@@ -10,8 +10,7 @@ Berlin, Germany
 
 **BI & Visualisation:** Power BI, Tableau, dashboards, heatmaps, automated reporting, stakeholder-ready visualisations
 
-**Analytics & Modelling:** Regression analysis, panel data, causal inference, machine learning, classification models, feature engineering, exploratory data analysis
-
+**Analytics & Modelling:** Data cleaning & transformation, exploratory data analysis, statistical modeling, predictive analytics, machine learning, classification models, model evaluation, causal inference, policy evaluation, KPI development, performance monitoring
 
 ## Work Experience
 
